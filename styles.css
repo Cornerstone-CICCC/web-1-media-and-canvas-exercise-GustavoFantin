@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.myCanvas {
+    background-color: yellow;
+    border: 3px black;
+}
+
+body {
+    background-image: url(assets/images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-color: green;
+}
